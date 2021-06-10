@@ -4,4 +4,4 @@ description: Modern-Blog A Elegant template for Jekyll
 keywords: Modern, Blogging, Fun
 author: SJ
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: https://seongjoo97.github.io # the base hostname & protocol for your site
+url: http://seongjoon97.github.io # the base hostname & protocol for your site

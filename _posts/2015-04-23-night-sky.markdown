@@ -2,9 +2,9 @@
 title:  "Absense of light"
 subtitle: "Only lights from space"
 author: "Wferr"
-avatar: "img/authors/wferr.png"
-image: "img/d.jpg"
-date:   2015-04-23 12:12:12
+avatar: "img/cat.jpg"
+image: "img/alwaysawke.jpg"
+date:   2021-06-10 11:11:14
 ---
 
 ### Dolor sit amet?

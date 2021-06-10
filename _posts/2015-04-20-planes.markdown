@@ -2,8 +2,8 @@
 title:  "Bangwool!"
 subtitle: "My pet is cat!"
 author: "SeongJun"
-avatar: "img/authors/wferr.png"
-image: "img/cat.jpg"
+avatar: "img/cat.jpg"
+image: "img/jazzyfact.jpg"
 date:   2021-06-10 11:11:11
 ---
 

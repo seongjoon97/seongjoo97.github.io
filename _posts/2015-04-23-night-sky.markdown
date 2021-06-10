@@ -3,8 +3,8 @@ title:  "Absense of light"
 subtitle: "Only lights from space"
 author: "Wferr"
 avatar: "img/cat.jpg"
-image: "img/alwaysawke.jpg"
-date:   2021-06-10 11:11:14
+image: "img/alwaysawake.jpg"
+date:   2021-06-10 11:11:13
 ---
 
 ### Dolor sit amet?

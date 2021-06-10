@@ -1,7 +1,7 @@
 ---
 title:  "Nobody else was around."
 subtitle: "A Beautiful shot during the night."
-author: "Wferr"
+author: ""SeongJun(bell none bell)""
 avatar: "img/cat.jpg"
 image: "img/iab.jpg"
 date:   2021-06-10 11:11:15

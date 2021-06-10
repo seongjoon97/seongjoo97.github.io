@@ -1,20 +1,20 @@
 ---
-title:  "Nobody else was around."
-subtitle: "A Beautiful shot during the night."
-author: ""SeongJun(bell none bell)""
+title:  ""
+subtitle: ""
+author: "SeongJun(bell none bell)"
 avatar: "img/cat.jpg"
 image: "img/iab.jpg"
 date:   2021-06-10 11:11:15
 ---
 
-### Dolor sit amet?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
+### IAB Studio
+-I've Always Been Studio-
+2013년에 힙합도 미술도 같이 좋아하던 서울대학교 동문인 빈지노, 신동민, 추계예술대학교 출신인 김한준이 함께 만든 디자인 스튜디오이다. 최근의 빈지노 앨범 아트워크나 많은 아티스트 아트워크를 맡기도 하며, 아이유의 삐삐, 에디킴의 팔당댐, SURAN, 정진운 등의 앨범을 끼깔나게 디자인했을 뿐만 아니라, 본격적인 기업의 의뢰도 해주는 곳이다. 최근에 바뀐 빼빼로 디자인과 던힐 Switch 디자인, 화장품 브랜드 키엘의 디자인 작품 등등 다분히 본격적인 상업디자인 일도 한다.
 
-### Aliquam suscipit.
-Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.
+빈지노와 인터뷰하면 흔히 보이는 의문의 스튜디오 장소가 바로 그들의 작업실이다. 위의 사진에서 가운데 인물이 신동민, 우측이 김한준이다. 정규 1집의 타이틀곡인 'Time Travel' 속 신동민과 김한준이 바로 여기의 신동민과 김한준. 빈지노의 1집 12의 수록곡 'Break'의 MV에 출연한 2명의 남자들이 바로 신동민, 김한준이다.
 
-Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.
+최근에는 IAB 스튜디오 로고가 적힌 의류도 판매하는데, 상당히(매우) 인기가 좋아 2~3달에 한번씩 팝업스토어를 열고, 예약판매도 진행하며, 자주 품절된다. 입어볼 수도 없고 교환, 환불도 불가능하지만 없어서 못파는 정도다. 동료 힙합 아티스트들도 IAB 티셔츠를 착용하는 모습이 최근들어 자주 보이며, 간혹 길거리에서도 이 아이템을 착용한 사람들을 심심치 않게 볼 수 있을정도.
 
-Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.
-
-Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.
+최근들어 온라인 프리오더를 진행하지 않고 오프라인 팝업스토어 형식으로 판매하고 있다.
+혹은 온라인 드로우(무작위 추첨)로 판매를 진행한다.
+높아진 인지도와 온라인 드로우로 한정 판매 한다는 부분때문에, 수 많은 되팔렘들이 몰려 리셀가가 나날이 치솟고있다.

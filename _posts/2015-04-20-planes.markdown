@@ -4,12 +4,12 @@ subtitle: "My pet is cat!"
 author: "SeongJun"
 avatar: "img/authors/wferr.png"
 image: "img/cat.jpg"
-date:   2015-04-20 12:12:12
+date:   2021-06-10 23:23:23
 ---
 
 ### 방울이가 누군지 알아요?
 태장동 멋쟁이 방울달린 고양이예요ㅋㅋ
-"img/cat.jpg"
+image: "img/cat.jpg"
 
 ### About Bangwool
 Hi I am Bangwool. I am 2 years old.

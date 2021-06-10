@@ -2,9 +2,9 @@
 title:  "I scream"
 subtitle: "But do you scream?"
 author: "Wferr"
-avatar: "img/authors/wferr.png"
-image: "img/e.jpg"
-date:   2015-04-24 12:12:12
+avatar: "img/cat.jpg"
+image: "img/big.jpg"
+date:   2021-06-10 11:11:15
 ---
 
 ### Dolor sit amet?
